@@ -1,0 +1,2 @@
+# gitconfig
+used by springcloudconfigserver
